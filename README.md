@@ -13,3 +13,7 @@ Sum of Sales by Sub-Category: Displays product category-wise sales trends.
 Users can navigate using icons to explore sales data, descriptive statistics, and different visualizations.
 Clicking on a plot title provides a detailed, focused view of that metric.
 This dashboard enables quick decision-making and sales optimization by visualizing key supermarket performance insights. 
+
+## Dashboard
+
+![dashboard](https://github.com/user-attachments/assets/028acd48-d0a5-4d49-862f-a3223afe9ef5)
